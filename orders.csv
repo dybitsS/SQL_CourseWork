@@ -1,0 +1,30 @@
+ClientName,ProductName,Quantity,PickUpOption,Status,Date
+Google,Retro Camera,5,Delivery,In Progress,12.03.2022 0:00:00
+Joanne Rowling,Old Book,1,Locker,Completed,16.04.2022 0:01:00
+Dmitry Samal,Antique Clock,2,Delivery,Canceled,17.04.2022 0:01:10
+Steve Jobs,Retro Stereo,1,Delivery,In Progress,18.07.2022 5:00:00
+Tim Cook,Antique Vase,5,Delivery,Completed,19.07.2022 6:00:00
+Dmitry Samal,Retro Watch,1,Locker,In Progress,20.07.2022 7:00:00
+Steve Jobs,Leather Jacket,1,Delivery,In Progress,21.07.2022 8:00:00
+Dmitry Samal,Wooden Chair,4,Delivery,Completed,22.07.2022 9:00:00
+Google,Retro Camera,9,Delivery,Canceled,23.07.2022 10:00:00
+Joanne Rowling,Old Book,7,Locker,In Progress,24.07.2022 11:00:00
+Dmitry Samal,Antique Clock,2,Locker,Completed,25.07.2022 12:01:00
+Steve Jobs,Retro Stereo,8,Locker,In Progress,26.07.2022 12:02:00
+Tim Cook,Antique Vase,3,Locker,In Progress,27.07.2022 12:02:00
+Dmitry Samal,Retro Watch,5,Locker,Completed,28.07.2022 12:03:00
+Steve Jobs,Leather Jacket,6,Locker,Canceled,29.07.2022 12:04:00
+Dmitry Samal,Wooden Chair,8,Locker,In Progress,30.07.2022 12:05:00
+Google,Retro Camera,3,Delivery,Completed,31.07.2022 12:06:00
+Joanne Rowling,Old Book,7,Delivery,In Progress,01.08.2022 12:07:00
+Dmitry Samal,Antique Clock,3,Locker,In Progress,02.08.2022 12:08:00
+Steve Jobs,Retro Stereo,3,Delivery,Completed,03.08.2022 12:09:00
+Tim Cook,Antique Vase,5,Delivery,Canceled,04.08.2022 12:10:00
+Dmitry Samal,Retro Watch,8,Delivery,In Progress,05.08.2022 12:11:00
+Steve Jobs,Leather Jacket,1,Locker,Completed,06.08.2022 12:12:00
+Dmitry Samal,Wooden Chair,7,Delivery,In Progress,07.08.2022 12:13:00
+Google,Retro Camera,2,Locker,In Progress,08.08.2022 12:14:00
+Joanne Rowling,Old Book,6,Delivery,Completed,09.08.2022 12:15:00
+Dmitry Samal,Antique Clock,5,Delivery,Canceled,10.08.2022 12:16:00
+Steve Jobs,Retro Stereo,3,Delivery,In Progress,11.08.2022 12:17:00
+Tim Cook,Antique Vase,7,Locker,Completed,12.08.2022 12:18:00
