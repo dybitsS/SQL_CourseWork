@@ -10,7 +10,7 @@ SELECT
     TO_CHAR(dd.Date, 'FMDay') AS DayOfWeek, 
     SUM(fs.Quantity) AS QuantitySold
 FROM FactSales fs
-JOIN DimDates dd ON fs.DateSK = dd.DateSK
+JOIN DimDates dd ON fs.DatesKey = dd.DatesKey
 JOIN DimProducts dp ON fs.ProductSK = dp.ProductSK
 JOIN DimCategories dc ON dp.CategorySK = dc.CategorySK
 GROUP BY TO_CHAR(dd.Date, 'FMDay')
