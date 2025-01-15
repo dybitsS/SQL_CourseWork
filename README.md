@@ -47,7 +47,7 @@
 
 2.  Запустите скрипт `creation_olap_database.sql`.
    
-   ![image](https://github.com/user-attachments/assets/54fed81c-ee47-4e1c-859f-cd04d548e029)
+   ![image](https://github.com/user-attachments/assets/2018c430-a434-448d-8337-f187240c6821)
    [link to diagram](https://dbdiagram.io/d/olap_database-67814ac46b7fa355c38682e9)
 
 
